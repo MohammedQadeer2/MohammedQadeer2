@@ -7,11 +7,8 @@ I specialize in building scalable web applications, designing RESTful APIs, and 
 🚀 About Me:
 
 • Web Development Intern at Labmentix Pvt. Ltd., where I work on full-stack applications using Node.js, Express, and MongoDB
-
 • Computer Science Engineering student at ISL Engineering College with a CGPA of 8.5
-
 • Passionate about building AI-native applications, agentic systems, smart search solutions, and automated workflows
-
 • Experienced in deploying and managing full-stack applications on cloud platforms such as Render
 
 🛠️ Technical Skills:
