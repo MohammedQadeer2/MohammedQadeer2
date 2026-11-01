@@ -13,7 +13,7 @@ Backend-Focused Full-Stack Developer | AI Enthusiast | Building Intelligent Web 
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I am a backend-focused full-stack developer based in Hyderabad, India, passionate about building scalable web applications, RESTful APIs, AI-powered systems, and agentic workflows.
 
